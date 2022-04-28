@@ -9,6 +9,8 @@ public class Birds {
         System.out.println("Pigeon");
         System.out.println("parrot" );
 
+        System.out.println("Stork ");
+
 
 
     }
