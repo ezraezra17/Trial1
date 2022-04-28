@@ -6,6 +6,8 @@ public class Birds {
 
         System.out.println("Woodpecker");
 
+        System.out.println("Pigeon");
+
 
 
     }
